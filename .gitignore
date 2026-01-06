@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+images_dataset/
+models/
+.idea/
+*.csv
